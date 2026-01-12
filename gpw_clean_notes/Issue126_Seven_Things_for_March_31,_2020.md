@@ -1,0 +1,3 @@
+2020-04-06: [Seven Things for March 31, 2020](http://www.realtimerendering.com/blog/seven-things-for-march-31-2020/)
+
+- collection of links and graphics community news such as ACM Digitial library being free, I3D posponed, ...
