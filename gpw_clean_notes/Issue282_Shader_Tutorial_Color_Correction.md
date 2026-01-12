@@ -1,4 +1,4 @@
-Unknown Date: [Shader Tutorial: Color Correction](https://www.patreon.com/posts/80733547)
+2023: [Shader Tutorial: Color Correction](https://www.patreon.com/posts/80733547)
 
 - the tutorial explains how to apply color modifications in shaders
 - shows how to modify luminance, saturation, brightness, or contrast

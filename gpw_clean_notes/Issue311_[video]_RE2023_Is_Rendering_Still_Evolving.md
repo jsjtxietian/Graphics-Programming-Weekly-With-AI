@@ -1,4 +1,4 @@
-Unknown Date: [[video] RE:2023 Is Rendering Still Evolving?](https://www.youtube.com/watch?v=7XWdiktsVyo)
+2023: [[video] RE:2023 Is Rendering Still Evolving?](https://www.youtube.com/watch?v=7XWdiktsVyo)
 
 - the video presents an overview of the  RE ENGINE graphics stack
 - shows how shaders/material are authored, how raytracing has been deeply integrated and optimized

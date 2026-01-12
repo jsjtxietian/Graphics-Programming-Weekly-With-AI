@@ -1,4 +1,4 @@
-Unknown Date: [Open Problems in Real-Time Rendering](https://www.youtube.com/watch?v=wOEKjawI0gc)
+2020: [Open Problems in Real-Time Rendering](https://www.youtube.com/watch?v=wOEKjawI0gc)
 
 - the talk from Digital Dragons looks at open questions in rendering
 - walkthrough of the various assumptions and approximations and raises the question of the most significant source of error in modern rendering pipeline?

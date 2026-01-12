@@ -1,4 +1,4 @@
-Unknown Date: [[video] How I implemented MegaTextures on real Nintendo 64 hardware](https://www.youtube.com/watch?v=Sf036fO-ZUk)
+2023: [[video] How I implemented MegaTextures on real Nintendo 64 hardware](https://www.youtube.com/watch?v=Sf036fO-ZUk)
 
 - the video presents an overview of virtual texturing
 - discusses texturing concepts and how to represent textures using tiles

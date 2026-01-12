@@ -1,4 +1,4 @@
-Unknown Date: [[video] Deferred Lights - Pixel Renderer Devlog #1](https://www.youtube.com/watch?v=R6vQ9VmMz2w)
+2022: [[video] Deferred Lights - Pixel Renderer Devlog #1](https://www.youtube.com/watch?v=R6vQ9VmMz2w)
 
 - the video explains the implementation of a 2D deferred shading system
 - shows a breakdown of the individual steps of the lighting pipeline

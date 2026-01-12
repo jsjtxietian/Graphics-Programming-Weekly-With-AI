@@ -1,4 +1,4 @@
-Unknown Date: [[video] CUDA 12 New Features and Beyond](https://www.youtube.com/watch?v=_5mnVGOxq50)
+2023: [[video] CUDA 12 New Features and Beyond](https://www.youtube.com/watch?v=_5mnVGOxq50)
 
 - the video discusses new features in Cuda 12 and a look at future developemnts
 - covering Dynamic Parallelism (GPU side task launching), lazy loading to reduce load time and memory usage

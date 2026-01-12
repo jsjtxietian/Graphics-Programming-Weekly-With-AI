@@ -1,4 +1,4 @@
-Unknown Date: [WebGPU Device Loss best practices](https://toji.dev/webgpu-best-practices/device-loss.html)
+2024: [WebGPU Device Loss best practices](https://toji.dev/webgpu-best-practices/device-loss.html)
 
 - the post explains what a device lost event is and how to handle it from WebGPU
 - shows the exposed API and how to react to the events

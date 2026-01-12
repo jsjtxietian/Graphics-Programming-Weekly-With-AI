@@ -1,4 +1,4 @@
-Unknown Date: [[video] I3D'24 Technical Paper: Filtering After Shading with Stochastic Texture Filtering](https://www.youtube.com/watch?v=e3391_C6aXE)
+2024: [[video] I3D'24 Technical Paper: Filtering After Shading with Stochastic Texture Filtering](https://www.youtube.com/watch?v=e3391_C6aXE)
 
 - extended presentation of the I3D paper presentation discussed last week
 - the paper presents an investigation into applying texture filtering after shading instead of before shading

@@ -1,4 +1,4 @@
-Unknown Date: [Avowed: A GPU Technical Retrospective | Unreal Fest Orlando 2025](https://www.youtube.com/watch?v=BKaAzhMHJZ0)
+2025: [Avowed: A GPU Technical Retrospective | Unreal Fest Orlando 2025](https://www.youtube.com/watch?v=BKaAzhMHJZ0)
 
 - presentation covering the GPU rendering optimization process in Avowed using Unreal Engine
 - shares insights from the development process and technical challenges encountered

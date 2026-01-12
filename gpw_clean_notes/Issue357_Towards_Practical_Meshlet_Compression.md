@@ -1,4 +1,4 @@
-Unknown Date: [Towards Practical Meshlet Compression](https://diglib.eg.org/items/423fd6b9-d226-4e82-92a0-4856bc064bdf)
+2024: [Towards Practical Meshlet Compression](https://diglib.eg.org/items/423fd6b9-d226-4e82-92a0-4856bc064bdf)
 
 - the paper proposes a codec designed explicitly for meshlet compression within a mesh shader
 - presents how to find optimal generalized triangle strips on meshlets

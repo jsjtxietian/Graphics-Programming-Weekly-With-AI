@@ -1,4 +1,4 @@
-Unknown Date: [[video] Easily Remaster Classic Games with NVIDIA RTX Remix](https://www.youtube.com/watch?v=Vg52-HZhrFc)
+2022: [[video] Easily Remaster Classic Games with NVIDIA RTX Remix](https://www.youtube.com/watch?v=Vg52-HZhrFc)
 
 - the video introduces the NVIDIA RTX Remix engine
 - the runtime allows the interception of DX9 applications

@@ -1,4 +1,4 @@
-Unknown Date: [[video] Calculating Ray-Sphere Intersections](https://www.youtube.com/watch?v=HFPlKQGChpE)
+2023: [[video] Calculating Ray-Sphere Intersections](https://www.youtube.com/watch?v=HFPlKQGChpE)
 
 - the video tutorial explains how to implement ray-sphere intersection testing
 - discusses the mathematic derivation of the technique

@@ -1,4 +1,4 @@
-Unknown Date: [renderdoc - Version v1.36](https://github.com/baldurk/renderdoc/releases/tag/v1.36)
+2025: [renderdoc - Version v1.36](https://github.com/baldurk/renderdoc/releases/tag/v1.36)
 
 - the post announces that DXIL debugging and raytracing are now supported in RenderDoc
 - shows how DXIL is integrated and existing limitations

@@ -1,4 +1,4 @@
-Unknown Date: [DirectX State of the Union: Raytracing and PIX Workflows (Presented by Microsoft)](https://www.youtube.com/watch?v=CR-5FhfF5kQ)
+2025: [DirectX State of the Union: Raytracing and PIX Workflows (Presented by Microsoft)](https://www.youtube.com/watch?v=CR-5FhfF5kQ)
 
 - Microsoft's latest DirectX roadmap presentation highlighting API advancements and tool updates
 - Shows updates to work graphs, neural rendering, raytracing 1.2 micromaps and shader execution reodering

@@ -1,4 +1,4 @@
-Unknown Date: [[video] Dithered Transparency in Unity Shader Graph](https://www.youtube.com/watch?v=NHd1PeJfyzE)
+2024: [[video] Dithered Transparency in Unity Shader Graph](https://www.youtube.com/watch?v=NHd1PeJfyzE)
 
 - the video explains the difference between alpha blending and dithered transparency
 - shows sorting issues related to blending order and how dithered transparency solves them

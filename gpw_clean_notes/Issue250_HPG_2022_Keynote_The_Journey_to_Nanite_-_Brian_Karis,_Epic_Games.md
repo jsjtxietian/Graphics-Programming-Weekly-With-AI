@@ -1,4 +1,4 @@
-Unknown Date: [HPG 2022 Keynote: The Journey to Nanite - Brian Karis, Epic Games](https://www.youtube.com/watch?v=NRnj_lnpORU)
+2022: [HPG 2022 Keynote: The Journey to Nanite - Brian Karis, Epic Games](https://www.youtube.com/watch?v=NRnj_lnpORU)
 
 - the talk discusses the issues artist encounter and how Nanite goals are designed to resolve them
 - presents a large number of topics Brian Karis had researched along the way

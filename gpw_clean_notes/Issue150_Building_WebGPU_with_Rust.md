@@ -1,4 +1,4 @@
-Unknown Date: [Building WebGPU with Rust](https://www.youtube.com/watch?v=OdbVCvPjRGg&feature=youtu.be)
+2020: [Building WebGPU with Rust](https://www.youtube.com/watch?v=OdbVCvPjRGg&feature=youtu.be)
 
 - the talk provides an overview of WebGPU and provides an overview of the implementation using Rust
 - this implementation is used by Firefox

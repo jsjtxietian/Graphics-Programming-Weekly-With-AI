@@ -1,4 +1,4 @@
-Unknown Date: [[video] RE:2023 Shader Translator: Implementation and Use](https://www.youtube.com/watch?v=008B6FHGpfI)
+2023: [[video] RE:2023 Shader Translator: Implementation and Use](https://www.youtube.com/watch?v=008B6FHGpfI)
 
 - the video presents how shaders are translated between HLSL and the target shading languages
 - explains the limitations of existing solutions and why a custom solution was developed

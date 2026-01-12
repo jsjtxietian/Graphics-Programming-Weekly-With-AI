@@ -18,7 +18,7 @@ def main():
     # 2. 加载模型
     # SentenceTransformer 支持直接加载本地文件夹
     print("Loading model into memory...")
-    model = SentenceTransformer('./all-MiniLM-L6-v2')
+    model = SentenceTransformer('../Models/all-MiniLM-L6-v2')
 
     # 3. 读取所有 Markdown 文件
     files = glob.glob(os.path.join(INPUT_DIR, "*.md"))

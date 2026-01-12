@@ -1,4 +1,4 @@
-Unknown Date: [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+2024: [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 
 - the article presents a detailed look at the quality aspects that relate to animation
 - shows the importance of sampling rate for human motion

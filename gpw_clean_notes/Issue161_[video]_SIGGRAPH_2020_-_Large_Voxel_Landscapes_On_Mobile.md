@@ -1,4 +1,4 @@
-Unknown Date: [[video] SIGGRAPH 2020 - Large Voxel Landscapes On Mobile](https://www.youtube.com/watch?v=LktNeVkofKU)
+2020: [[video] SIGGRAPH 2020 - Large Voxel Landscapes On Mobile](https://www.youtube.com/watch?v=LktNeVkofKU)
 
 - the talk explains the Voxel-based terrain system used in Roblox
 - voxels store material id and material occupancy (0,1) range

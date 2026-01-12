@@ -1,4 +1,4 @@
-Unknown Date: [[video] HPG 2020 - High-Performance Graphics (Day 3)](https://www.youtube.com/watch?v=prZJ8FBG9BI)
+2020: [[video] HPG 2020 - High-Performance Graphics (Day 3)](https://www.youtube.com/watch?v=prZJ8FBG9BI)
 
 - Porting PBRT to the GPU While Preserving its Soul
 - Quadratic Approximation of Cubic Curves

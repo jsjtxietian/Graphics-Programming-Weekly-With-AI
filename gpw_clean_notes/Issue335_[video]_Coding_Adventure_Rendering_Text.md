@@ -1,4 +1,4 @@
-Unknown Date: [[video] Coding Adventure: Rendering Text](https://www.youtube.com/watch?v=SO83KQuuZvg)
+2024: [[video] Coding Adventure: Rendering Text](https://www.youtube.com/watch?v=SO83KQuuZvg)
 
 - the video deep dives into font rendering
 - starts by exploring the True Type Font format

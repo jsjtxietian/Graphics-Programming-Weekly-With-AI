@@ -1,4 +1,4 @@
-Unknown Date: [[video] Circle Signed Distance Field - Procedural Shapes and Patterns - Episode 2](https://www.youtube.com/watch?v=GMQym0in8OY)
+2024: [[video] Circle Signed Distance Field - Procedural Shapes and Patterns - Episode 2](https://www.youtube.com/watch?v=GMQym0in8OY)
 
 - the video tutorial presents how to create a signed distance field for a circle
 - the implementation is shown using Unity and Unreal

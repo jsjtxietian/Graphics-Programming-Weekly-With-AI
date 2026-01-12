@@ -1,4 +1,4 @@
-Unknown Date: [[video] Coding Adventure: Simulating Smoke](https://www.youtube.com/watch?v=Q78wvrQ9xsU)
+2025: [[video] Coding Adventure: Simulating Smoke](https://www.youtube.com/watch?v=Q78wvrQ9xsU)
 
 - video walkthrough of implementing a fluid dynamics simulation for smoke
 - covers the mathematical foundations and implementation details of smoke simulation

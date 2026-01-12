@@ -1,4 +1,4 @@
-Unknown Date: [[video] Optimizing Based On Analysis - Game Optimization - Episode 8](https://www.youtube.com/watch?v=i3NB6qBhCcw)
+2025: [[video] Optimizing Based On Analysis - Game Optimization - Episode 8](https://www.youtube.com/watch?v=i3NB6qBhCcw)
 
 - demonstrates how to use profiling data and performance analysis to guide optimization decisions
 - covers systematic approaches to identifying bottlenecks in game performance

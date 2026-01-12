@@ -1,4 +1,4 @@
-Unknown Date: [[video] Real-Time Ray Tracing | RTX ON in Vulkan | Vulkan Lecture Series Ep. 6, Real-Time Rendering Course](https://www.youtube.com/watch?v=12k_frqw7tM)
+2022: [[video] Real-Time Ray Tracing | RTX ON in Vulkan | Vulkan Lecture Series Ep. 6, Real-Time Rendering Course](https://www.youtube.com/watch?v=12k_frqw7tM)
 
 - Video lecture series of the real-time rendering course at TU Wien
 - this part covers how to use hardware-accelerated ray tracing from Vulkan

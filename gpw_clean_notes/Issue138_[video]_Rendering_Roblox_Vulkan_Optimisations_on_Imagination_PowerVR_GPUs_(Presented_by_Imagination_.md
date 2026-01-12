@@ -1,4 +1,4 @@
-Unknown Date: [[video] Rendering Roblox: Vulkan Optimisations on Imagination PowerVR GPUs (Presented by Imagination Technologies)](https://www.gdcvault.com/play/1026753/Rendering-Roblox-Vulkan-Optimisations-on)
+2020: [[video] Rendering Roblox: Vulkan Optimisations on Imagination PowerVR GPUs (Presented by Imagination Technologies)](https://www.gdcvault.com/play/1026753/Rendering-Roblox-Vulkan-Optimisations-on)
 
 - the GDC talk discusses the voxel-based lighting and shadow system
 - how to handle performance vs. quality tradeoffs in algorithms

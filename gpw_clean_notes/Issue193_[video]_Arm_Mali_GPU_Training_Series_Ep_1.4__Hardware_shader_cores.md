@@ -1,4 +1,4 @@
-Unknown Date: [[video] Arm Mali GPU Training Series Ep 1.4 : Hardware shader cores](https://www.youtube.com/watch?v=R7gdINpAGeI)
+2021: [[video] Arm Mali GPU Training Series Ep 1.4 : Hardware shader cores](https://www.youtube.com/watch?v=R7gdINpAGeI)
 
 - the video discusses the hardware essentials
 - presents how CPUs are designed

@@ -1,4 +1,4 @@
-Unknown Date: [[video] Why Did Link's Cel Shading Disappear?](https://www.youtube.com/watch?v=By7qcgaqGI4)
+2022: [[video] Why Did Link's Cel Shading Disappear?](https://www.youtube.com/watch?v=By7qcgaqGI4)
 
 - the video does a deep dive into deferred shading techniques to explain why a graphical artifact in Zelda's Breath of the Wild appears in a specific place
 - starting with a discussion of lighting techniques

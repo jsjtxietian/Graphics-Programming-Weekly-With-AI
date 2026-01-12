@@ -1,4 +1,4 @@
-Unknown Date: [INSIDE shipping on iOS](http://loopit.dk/inside_shipping_on_ios.pdf)
+2018: [INSIDE shipping on iOS](http://loopit.dk/inside_shipping_on_ios.pdf)
 
 - many optimization lessons learned for mobile
 - how to deal with shader preloading

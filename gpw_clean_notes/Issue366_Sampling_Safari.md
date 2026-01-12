@@ -1,4 +1,4 @@
-Unknown Date: [Sampling Safari](https://wkjarosz.github.io/SamplinSafari/)
+2024: [Sampling Safari](https://wkjarosz.github.io/SamplinSafari/)
 
 - the tool allows the visualization of Monte Carlo samplers
 - many different methods can be selected

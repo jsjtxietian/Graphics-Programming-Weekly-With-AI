@@ -1,4 +1,4 @@
-Unknown Date: [[video] Jonathan Ragan Kelley: Organizing Computation for High-Performance Visual Computing](https://www.youtube.com/watch?v=bgkji8TrBDI)
+2021: [[video] Jonathan Ragan Kelley: Organizing Computation for High-Performance Visual Computing](https://www.youtube.com/watch?v=bgkji8TrBDI)
 
 - the talk presents a discussion of performance tradeoffs
 - proposes the idea that algorithms should be separated from how they are executed

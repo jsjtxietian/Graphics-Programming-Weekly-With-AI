@@ -1,4 +1,4 @@
-Unknown Date: [[video] Halton Low-Discrepancy Sequence [Shaders Monthly #12]](https://www.youtube.com/watch?v=N6xZvrLusPI)
+2023: [[video] Halton Low-Discrepancy Sequence [Shaders Monthly #12]](https://www.youtube.com/watch?v=N6xZvrLusPI)
 
 - the video explains the effect of the Halton Sequence compared to random and grid sampling
 - shows how to implement the Halton Sequence using GLSL

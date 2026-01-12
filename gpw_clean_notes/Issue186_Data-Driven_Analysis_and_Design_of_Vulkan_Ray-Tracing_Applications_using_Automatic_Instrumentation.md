@@ -1,4 +1,4 @@
-Unknown Date: [Data-Driven Analysis and Design of Vulkan Ray-Tracing Applications using Automatic Instrumentation](https://hgpu.org/?p=25106)
+2021: [Data-Driven Analysis and Design of Vulkan Ray-Tracing Applications using Automatic Instrumentation](https://hgpu.org/?p=25106)
 
 - the master thesis presents a SPIR-V based instrumentation framework
 - shows how to use instrumentation to gather information about the execution of ray tracing shaders

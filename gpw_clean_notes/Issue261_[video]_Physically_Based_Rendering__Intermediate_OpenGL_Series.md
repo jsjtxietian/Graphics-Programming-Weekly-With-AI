@@ -1,4 +1,4 @@
-Unknown Date: [[video] Physically Based Rendering // Intermediate OpenGL Series](https://www.youtube.com/watch?v=XK_p2MxGBQs)
+2022: [[video] Physically Based Rendering // Intermediate OpenGL Series](https://www.youtube.com/watch?v=XK_p2MxGBQs)
 
 - the video provides an overview of a Physically Based shading model
 - discusses the Cook-Torrance BRDF model, Schlick GGX, and Fresnel

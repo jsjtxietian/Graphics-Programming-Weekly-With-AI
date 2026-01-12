@@ -1,4 +1,4 @@
-Unknown Date: [[video] Beyond White Noise for Real-Time Rendering](https://www.youtube.com/watch?v=tethAU66xaA)
+2024: [[video] Beyond White Noise for Real-Time Rendering](https://www.youtube.com/watch?v=tethAU66xaA)
 
 - the video presents how different types of noise for random number generation can affect the results
 - discusses Randomness/fairness when generating random numbers

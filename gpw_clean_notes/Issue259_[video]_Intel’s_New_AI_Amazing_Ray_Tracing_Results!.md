@@ -1,4 +1,4 @@
-Unknown Date: [[video] Intel’s New AI: Amazing Ray Tracing Results!](https://www.youtube.com/watch?v=VxbTiuabW0k)
+2022: [[video] Intel’s New AI: Amazing Ray Tracing Results!](https://www.youtube.com/watch?v=VxbTiuabW0k)
 
 - the video presents a new upsampling technique developed by intel (Temporally Stable Real-Time Joint Neural Denoising and Supersampling)
 - presents a comparison against previous techniques

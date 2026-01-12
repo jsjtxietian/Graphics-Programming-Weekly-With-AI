@@ -1,4 +1,4 @@
-Unknown Date: [Emulating Workgraphs](https://github.com/HansKristian-Work/vkd3d-proton/blob/workgraphs/docs/workgraphs.md)
+2024: [Emulating Workgraphs](https://github.com/HansKristian-Work/vkd3d-proton/blob/workgraphs/docs/workgraphs.md)
 
 - the document explains how vkd3d-proton decides to emulate Vulkan Workgraphs using ExecuteIndirect
 - discusses different trade-offs and design decisions made

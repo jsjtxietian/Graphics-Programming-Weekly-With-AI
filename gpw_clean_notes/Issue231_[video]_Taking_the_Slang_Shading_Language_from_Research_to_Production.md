@@ -1,4 +1,4 @@
-Unknown Date: [[video] Taking the Slang Shading Language from Research to Production](https://www.youtube.com/watch?v=XDJdHKIY06E)
+2022: [[video] Taking the Slang Shading Language from Research to Production](https://www.youtube.com/watch?v=XDJdHKIY06E)
 
 - the video presents an overview of the challenges in shader development
 - discussing how Slang can address these challenges

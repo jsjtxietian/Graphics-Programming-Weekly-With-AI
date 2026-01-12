@@ -1,4 +1,4 @@
-Unknown Date: [[video] WWDC25: Unlock GPU computing with WebGPU | Apple](https://www.youtube.com/watch?v=rPp7HZFNXnM)
+2025: [[video] WWDC25: Unlock GPU computing with WebGPU | Apple](https://www.youtube.com/watch?v=rPp7HZFNXnM)
 
 - the video presents an overview of the WebGPU API
 - discussing the capabilities of the API, supported platforms, and limitations

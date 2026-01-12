@@ -1,4 +1,4 @@
-Unknown Date: [[video] Tech Focus: Nvidia DLDSR - What Does AI Downsampling Actually Do?](https://www.youtube.com/watch?v=c3voyiojWl4)
+2022: [[video] Tech Focus: Nvidia DLDSR - What Does AI Downsampling Actually Do?](https://www.youtube.com/watch?v=c3voyiojWl4)
 
 - the video presents super sampling techniques
 - showing the issues introduced if super-sampling is done with a scaling factor that is not evenly dividable to the downsample target

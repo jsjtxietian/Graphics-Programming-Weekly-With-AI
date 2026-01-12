@@ -1,4 +1,4 @@
-Unknown Date: [Robin Taillandier & Jon Valdes - Every Strand Counts: Physics and Rendering Behind Frostbite’s Hair](https://www.youtube.com/watch?v=ool2E8SQPGU)
+2020: [Robin Taillandier & Jon Valdes - Every Strand Counts: Physics and Rendering Behind Frostbite’s Hair](https://www.youtube.com/watch?v=ool2E8SQPGU)
 
 - presentation shows the in-progress state of the new Frostbite hair rendering system in the context of FIFA
 - covering both the strand simulation and rendering

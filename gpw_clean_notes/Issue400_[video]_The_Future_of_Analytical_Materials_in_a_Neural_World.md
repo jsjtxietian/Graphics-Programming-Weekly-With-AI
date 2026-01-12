@@ -1,4 +1,4 @@
-Unknown Date: [[video] The Future of Analytical Materials in a Neural World](https://www.youtube.com/watch?v=xUnXPNFWJUY)
+2025: [[video] The Future of Analytical Materials in a Neural World](https://www.youtube.com/watch?v=xUnXPNFWJUY)
 
 - presents a look at how real-life material complexity is approximated in rendering
 - discusses the importance of layered material models for the appearance

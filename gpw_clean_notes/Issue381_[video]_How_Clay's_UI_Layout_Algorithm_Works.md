@@ -1,4 +1,4 @@
-Unknown Date: [[video] How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
+2025: [[video] How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 
 - the video explains how to design a flexbox-like layout algorithm
 - visually explains the flow of layout operations in a multi-pass structure

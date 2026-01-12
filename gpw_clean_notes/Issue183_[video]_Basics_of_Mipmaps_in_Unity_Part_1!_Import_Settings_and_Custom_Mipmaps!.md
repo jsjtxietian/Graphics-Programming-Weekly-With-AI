@@ -1,4 +1,4 @@
-Unknown Date: [[video] Basics of Mipmaps in Unity Part 1! Import Settings and Custom Mipmaps!](https://www.youtube.com/watch?v=Vq5T4hu8NWM)
+2021: [[video] Basics of Mipmaps in Unity Part 1! Import Settings and Custom Mipmaps!](https://www.youtube.com/watch?v=Vq5T4hu8NWM)
 
 - the video presents an explanation on mipmaps, presenting what effects it has on the visual appearance
 - explains how to use unity to automatically generate mipmaps

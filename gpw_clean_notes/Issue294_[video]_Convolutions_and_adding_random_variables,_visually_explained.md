@@ -1,4 +1,4 @@
-Unknown Date: [[video] Convolutions and adding random variables, visually explained](https://www.youtube.com/watch?v=IaSGqQa5O-M)
+2023: [[video] Convolutions and adding random variables, visually explained](https://www.youtube.com/watch?v=IaSGqQa5O-M)
 
 - the video explains the concept of convolution functions/filters
 - starts with distinct distributions and generalizes from there into continuous functions

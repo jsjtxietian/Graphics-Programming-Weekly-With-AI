@@ -1,4 +1,4 @@
-Unknown Date: [[video] HOW TO DEBUG Your OpenGL Code](https://www.youtube.com/watch?v=Wk145_jUsBk&feature=youtu.be)
+2022: [[video] HOW TO DEBUG Your OpenGL Code](https://www.youtube.com/watch?v=Wk145_jUsBk&feature=youtu.be)
 
 - the video tutorial provides a starting guide to OpenGL debugging
 - starts by covering CPU side error detection and apitrace (capturing tool for all API calls)

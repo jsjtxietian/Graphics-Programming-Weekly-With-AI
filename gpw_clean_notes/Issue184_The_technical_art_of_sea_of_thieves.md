@@ -1,4 +1,4 @@
-Unknown Date: [The technical art of sea of thieves](https://dl.acm.org/doi/10.1145/3214745.3214820)
+1145-32-01: [The technical art of sea of thieves](https://dl.acm.org/doi/10.1145/3214745.3214820)
 
 - the video recording from the Siggraph 2018 has been released
 - covering ocean foam generation, shallow water simulation, and flowing water

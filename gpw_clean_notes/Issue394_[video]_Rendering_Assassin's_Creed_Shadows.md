@@ -1,4 +1,4 @@
-Unknown Date: [[video] Rendering Assassin's Creed Shadows](https://www.youtube.com/watch?v=yj5pYktC3X8)
+2025: [[video] Rendering Assassin's Creed Shadows](https://www.youtube.com/watch?v=yj5pYktC3X8)
 
 - details the rendering techniques used in the latest Assassin's Creed game
 - explores the GPU-driven rendering pipeline, micro polygon rasterization, global illumination implementation

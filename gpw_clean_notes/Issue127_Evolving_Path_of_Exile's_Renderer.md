@@ -1,4 +1,4 @@
-Unknown Date: [Evolving Path of Exile's Renderer](https://www.youtube.com/watch?v=whyJzrVEgVc)
+2020: [Evolving Path of Exile's Renderer](https://www.youtube.com/watch?v=whyJzrVEgVc)
 
 - the talk presents an overview of rendering features developed for Path of Exile
 - showing what constraints the game provides and how it enables these implementations

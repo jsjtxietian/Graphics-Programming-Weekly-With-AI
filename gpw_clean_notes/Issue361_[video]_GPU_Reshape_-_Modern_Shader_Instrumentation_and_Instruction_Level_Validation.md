@@ -1,4 +1,4 @@
-Unknown Date: [[video] GPU Reshape - Modern Shader Instrumentation and Instruction Level Validation](https://www.youtube.com/watch?v=ivwD6n-XXQk)
+2024: [[video] GPU Reshape - Modern Shader Instrumentation and Instruction Level Validation](https://www.youtube.com/watch?v=ivwD6n-XXQk)
 
 - the talk provides an overview of instrumentation-based GPU Validation system
 - explains what kind of validation is currently supported, how operations are written in IL agnostic fashion

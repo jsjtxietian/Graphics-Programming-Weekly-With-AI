@@ -1,4 +1,4 @@
-Unknown Date: [[video] Image Memory Barriers // Vulkan For Beginners #11](https://www.youtube.com/watch?v=u5qNqIGRFHY)
+2024: [[video] Image Memory Barriers // Vulkan For Beginners #11](https://www.youtube.com/watch?v=u5qNqIGRFHY)
 
 - the video provides an overview of the concept of image barriers
 - explains what kind of hardware-defined memory layout changes might be associated with image layouts

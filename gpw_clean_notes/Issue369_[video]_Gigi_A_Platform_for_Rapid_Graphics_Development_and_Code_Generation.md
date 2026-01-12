@@ -1,4 +1,4 @@
-Unknown Date: [[video] Gigi: A Platform for Rapid Graphics Development and Code Generation](https://www.youtube.com/watch?v=MgCR-Kky628)
+2024: [[video] Gigi: A Platform for Rapid Graphics Development and Code Generation](https://www.youtube.com/watch?v=MgCR-Kky628)
 
 - the talk presents an overview of the Gigi Platform
 - a tool and code generation that aims to improve programmer productivity by enabling rapid authoring of shader effects

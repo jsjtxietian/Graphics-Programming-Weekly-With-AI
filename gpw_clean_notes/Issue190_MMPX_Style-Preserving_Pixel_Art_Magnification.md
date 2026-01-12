@@ -1,4 +1,4 @@
-Unknown Date: [MMPX Style-Preserving Pixel Art Magnification](http://jcgt.org/published/0010/02/04/)
+0010-02-04: [MMPX Style-Preserving Pixel Art Magnification](http://jcgt.org/published/0010/02/04/)
 
 - the paper presents a filter for magnifying pixel art (such as 8
 - and 16-bit sprites)

@@ -1,4 +1,4 @@
-Unknown Date: [[video] What to do if you're GPU Bound - Game Optimization - Episode 6](https://www.youtube.com/watch?v=hjjodpsZ70Q)
+2025: [[video] What to do if you're GPU Bound - Game Optimization - Episode 6](https://www.youtube.com/watch?v=hjjodpsZ70Q)
 
 - video tutorial covering optimization strategies when games are GPU-limited
 - presents techniques for identifying GPU bottlenecks and performance issues

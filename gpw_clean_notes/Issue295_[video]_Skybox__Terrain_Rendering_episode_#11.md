@@ -1,4 +1,4 @@
-Unknown Date: [[video] Skybox // Terrain Rendering episode #11](https://www.youtube.com/watch?v=L1NOYs0iPug)
+2023: [[video] Skybox // Terrain Rendering episode #11](https://www.youtube.com/watch?v=L1NOYs0iPug)
 
 - the video tutorial presents how to render a skybox using OpenGL
 - explains the theory of the technique and the implementation

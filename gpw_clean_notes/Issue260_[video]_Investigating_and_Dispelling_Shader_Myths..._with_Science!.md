@@ -1,4 +1,4 @@
-Unknown Date: [[video] Investigating and Dispelling Shader Myths... with Science!](https://gdcvault.com/play/1028185/Investigating-and-Dispelling-Shader-Myths)
+2022: [[video] Investigating and Dispelling Shader Myths... with Science!](https://gdcvault.com/play/1028185/Investigating-and-Dispelling-Shader-Myths)
 
 - the talk presents a set of common misconceptions about shader code patterns
 - shows what instructions are generated and how these patterns affect performance

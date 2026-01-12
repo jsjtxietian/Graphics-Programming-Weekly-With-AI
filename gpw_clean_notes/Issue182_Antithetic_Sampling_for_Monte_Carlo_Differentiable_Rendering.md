@@ -1,4 +1,4 @@
-Unknown Date: [Antithetic Sampling for Monte Carlo Differentiable Rendering](https://shuangz.com/projects/antithetic-sg21/)
+2021: [Antithetic Sampling for Monte Carlo Differentiable Rendering](https://shuangz.com/projects/antithetic-sg21/)
 
 - the paper presents antithetic variance reduction technique used to estimate the interior integrals
 - shows the usage of the technique for Monte Carlo differentiable rendering of glossy and BSDFs

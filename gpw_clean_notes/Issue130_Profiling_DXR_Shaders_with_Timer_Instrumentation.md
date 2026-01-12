@@ -1,4 +1,4 @@
-Unknown Date: [Profiling DXR Shaders with Timer Instrumentation](https://devblogs.nvidia.com/profiling-dxr-shaders-with-timer-instrumentation/)
+2020: [Profiling DXR Shaders with Timer Instrumentation](https://devblogs.nvidia.com/profiling-dxr-shaders-with-timer-instrumentation/)
 
 - new Nvidia extension for D3D12 that provides shaders the possibility to query timestamps from within a shader
 - the article explains how to use this technique to visualize the performance of TraceRay( ... ) with a heatmap

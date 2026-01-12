@@ -1,4 +1,4 @@
-Unknown Date: [[video] Interactive Graphics 20 - Compute & Mesh Shaders](https://www.youtube.com/watch?v=HH-9nfceXFw&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&index=21)
+2022: [[video] Interactive Graphics 20 - Compute & Mesh Shaders](https://www.youtube.com/watch?v=HH-9nfceXFw&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN&index=21)
 
 - the video lecture explains the concepts of compute shaders
 - covering how to bind resources, compile and use shaders from OpenGL

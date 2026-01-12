@@ -1,4 +1,4 @@
-Unknown Date: [Path tracing lectures](http://momentsingraphics.de/PathTracingLectures.html)
+2025: [Path tracing lectures](http://momentsingraphics.de/PathTracingLectures.html)
 
 - the blog post provides an introduction to the path tracing lectures available from the TU Delft
 - discussed what material is covered and the limitations

@@ -1,4 +1,4 @@
-Unknown Date: [[video] Shader Code and Maths to Node Graphs](https://www.youtube.com/watch?v=I0NxObQqzek)
+2022: [[video] Shader Code and Maths to Node Graphs](https://www.youtube.com/watch?v=I0NxObQqzek)
 
 - the presentation focuses on how to approach the implementation of abstract code/math expressions to make it easier to work with
 - presents the importance of breaking down more complex expressions into sub-expression and visualizing individual components

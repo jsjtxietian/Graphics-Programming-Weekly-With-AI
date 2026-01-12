@@ -1,4 +1,4 @@
-Unknown Date: [HPG 2021 Keynote: Alex Evans (NVIDIA), Optimising for Artist Happiness](https://youtu.be/eGfX1iWzkh0?t=1306)
+2021: [HPG 2021 Keynote: Alex Evans (NVIDIA), Optimising for Artist Happiness](https://youtu.be/eGfX1iWzkh0?t=1306)
 
 - Alex covers many ideas and algorithms
 - classical tools require the artist to deal with technical aspects at all time

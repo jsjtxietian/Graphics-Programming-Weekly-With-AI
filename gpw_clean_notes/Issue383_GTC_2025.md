@@ -1,4 +1,4 @@
-Unknown Date: [GTC 2025](/gtc-2025/)
+2025-01-01: [GTC 2025](/gtc-2025/)
 
 - NVIDIA GTC is happening now – [attend virtually](https://nvda.ws/4aAcg3k) for free.
 - Presenting the latest breakthroughs in generative AI, accelerated computing, simulation technology, and more.

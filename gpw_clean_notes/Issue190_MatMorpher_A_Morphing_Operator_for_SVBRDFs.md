@@ -1,4 +1,4 @@
-Unknown Date: [MatMorpher: A Morphing Operator for SVBRDFs](https://perso.telecom-paristech.fr/boubek/papers/MatMorpher/)
+2021: [MatMorpher: A Morphing Operator for SVBRDFs](https://perso.telecom-paristech.fr/boubek/papers/MatMorpher/)
 
 - the paper presents a new operator for blending BRDF texture maps
 - based on a transport mechanism that is feature aware

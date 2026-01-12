@@ -1,4 +1,4 @@
-Unknown Date: [[video] The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds)
+2022: [[video] The Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds)
 
 - the detailed video explains splines and concepts derived/extended from these
 - covering Bézier Curves and Bézier Splines, explaining the underlying mathematics and concepts

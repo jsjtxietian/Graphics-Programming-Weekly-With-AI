@@ -1,4 +1,4 @@
-Unknown Date: [[video] Vulkanised 2025: Slang is for Neural Graphics - Shannon Woods](https://www.youtube.com/watch?v=Wg75trbSqg0)
+2025: [[video] Vulkanised 2025: Slang is for Neural Graphics - Shannon Woods](https://www.youtube.com/watch?v=Wg75trbSqg0)
 
 - This video provides a comprehensive overview of Slang and its capabilities for differentiable programming
 - It explains how Slang enables automatic differentiation, enhancing neural-based graphics techniques

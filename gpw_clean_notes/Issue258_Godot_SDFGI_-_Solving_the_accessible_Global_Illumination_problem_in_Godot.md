@@ -1,4 +1,4 @@
-Unknown Date: [Godot SDFGI - Solving the accessible Global Illumination problem in Godot](https://www.docdroid.net/YNntL0e/godot-sdfgi-pdf)
+2022: [Godot SDFGI - Solving the accessible Global Illumination problem in Godot](https://www.docdroid.net/YNntL0e/godot-sdfgi-pdf)
 
 - the slides discussing the new GI solution implemented for Godot
 - the talk will happen on Friday, 28th [twitter DM for signup](https://twitter.com/reduzio/status/1583780332524146692)

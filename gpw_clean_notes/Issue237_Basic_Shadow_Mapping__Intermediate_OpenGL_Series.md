@@ -1,4 +1,4 @@
-Unknown Date: [Basic Shadow Mapping // Intermediate OpenGL Series](https://www.youtube.com/watch?v=kCCsko29pv0)
+2022: [Basic Shadow Mapping // Intermediate OpenGL Series](https://www.youtube.com/watch?v=kCCsko29pv0)
 
 - the video tutorial presents how to implement shadow mapping using OpenGL
 - shows the necessary theory underlying the technique

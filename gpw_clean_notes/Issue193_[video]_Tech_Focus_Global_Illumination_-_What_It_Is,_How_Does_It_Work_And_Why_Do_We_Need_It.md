@@ -1,4 +1,4 @@
-Unknown Date: [[video] Tech Focus: Global Illumination - What It Is, How Does It Work And Why Do We Need It?](https://www.youtube.com/watch?v=yEkryaaAsBU)
+2021: [[video] Tech Focus: Global Illumination - What It Is, How Does It Work And Why Do We Need It?](https://www.youtube.com/watch?v=yEkryaaAsBU)
 
 - the video provides an overview explanation of Global Illumination
 - presents an overview of the fundamental concepts

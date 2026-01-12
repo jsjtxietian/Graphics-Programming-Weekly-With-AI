@@ -1,4 +1,4 @@
-Unknown Date: [[video] A Taste of GPU Compute](https://www.youtube.com/watch?v=eqkAaplKBc4)
+2020: [[video] A Taste of GPU Compute](https://www.youtube.com/watch?v=eqkAaplKBc4)
 
 - talks aimed at computer science students starting to get started with GPU technology
 - present an overview of GPU hardware architecture

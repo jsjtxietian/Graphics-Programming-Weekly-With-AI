@@ -1,4 +1,4 @@
-Unknown Date: [[Video] Commandos Cone of Sight FX in Unity | GPUMAN](https://www.youtube.com/watch?v=SNwRkAuCp24)
+2020: [[Video] Commandos Cone of Sight FX in Unity | GPUMAN](https://www.youtube.com/watch?v=SNwRkAuCp24)
 
 - the Unity tutorial explains how to implement a cone of sight that is occluded by objects
 - intersection with the primary scene depth buffer allows constraining the effect to the surface of the terrain

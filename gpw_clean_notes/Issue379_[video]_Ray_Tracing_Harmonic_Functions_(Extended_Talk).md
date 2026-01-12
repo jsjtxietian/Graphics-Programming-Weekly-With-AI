@@ -1,4 +1,4 @@
-Unknown Date: [[video] Ray Tracing Harmonic Functions (Extended Talk)](https://www.youtube.com/watch?v=9h13FPuBvM8)
+2025: [[video] Ray Tracing Harmonic Functions (Extended Talk)](https://www.youtube.com/watch?v=9h13FPuBvM8)
 
 - The talk introduces a novel sphere tracing algorithm tailored for harmonic functions.
 - The method allows for larger step sizes than traditional ray marching.

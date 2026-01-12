@@ -1,4 +1,4 @@
-Unknown Date: [[video] It Just Works: Ray-Traced Reflections in Battlefield V](https://www.youtube.com/watch?v=ncUNLDQZMzQ)
+2021: [[video] It Just Works: Ray-Traced Reflections in Battlefield V](https://www.youtube.com/watch?v=ncUNLDQZMzQ)
 
 - presents how D3D12 Raytracing support was implemented in Battlefield V
 - mix of screenspace reflections and raytracing

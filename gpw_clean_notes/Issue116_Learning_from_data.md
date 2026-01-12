@@ -1,4 +1,4 @@
-Unknown Date: [Learning from data](https://zeux.io/2020/01/22/learning-from-data/)
+2020-01-22: [Learning from data](https://zeux.io/2020/01/22/learning-from-data/)
 
 - the article presents how ordering mesh data can influence rendering performance
 - compares different algorithms developed for this purpose

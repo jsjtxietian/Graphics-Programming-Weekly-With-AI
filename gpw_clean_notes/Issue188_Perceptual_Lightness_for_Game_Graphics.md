@@ -1,4 +1,4 @@
-Unknown Date: [Perceptual Lightness for Game Graphics](http://alextardif.com/Lightness.html)
+2021: [Perceptual Lightness for Game Graphics](http://alextardif.com/Lightness.html)
 
 - the blog presents a comparison between color's luminance and lightness
 - shows that colors with the same luminance are perceived differently (The Helmholtz–Kohlrausch Effect)

@@ -1,4 +1,4 @@
-Unknown Date: [GPU Architectures](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
+2019: [GPU Architectures](https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view)
 
 - a brief overview of the rasterization process
 - look at the logical rendering pipeline model

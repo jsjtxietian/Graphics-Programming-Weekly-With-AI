@@ -1,4 +1,4 @@
-Unknown Date: [Boost rendering performance with Variable Rate Shading | Game Developers Conference 2019](https://www.youtube.com/watch?v=f-SklVb2MDI)
+2019: [Boost rendering performance with Variable Rate Shading | Game Developers Conference 2019](https://www.youtube.com/watch?v=f-SklVb2MDI)
 
 - Microsoft GDC 2019 presentation about variable rate shading (VRS)
 - presents the history of techniques and what problems VRS is designed to solve

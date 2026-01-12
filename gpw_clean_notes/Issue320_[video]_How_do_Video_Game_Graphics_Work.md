@@ -1,4 +1,4 @@
-Unknown Date: [[video] How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+2024: [[video] How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
 - the video provides a great visual breakdown of the rendering pipeline
 - covers how scenes are represented, how the source triangles are transformed, rasterized, and shaded to finally appear on screen

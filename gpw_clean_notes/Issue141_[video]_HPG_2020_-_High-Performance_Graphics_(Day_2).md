@@ -1,4 +1,4 @@
-Unknown Date: [[video] HPG 2020 - High-Performance Graphics (Day 2)](https://www.youtube.com/watch?v=-KxMg4wVF7Q)
+2020: [[video] HPG 2020 - High-Performance Graphics (Day 2)](https://www.youtube.com/watch?v=-KxMg4wVF7Q)
 
 - Neural Denoising for Path Tracing of Medical Volumetric Data
 - High-Performance Image Filters via Sparse Approximations

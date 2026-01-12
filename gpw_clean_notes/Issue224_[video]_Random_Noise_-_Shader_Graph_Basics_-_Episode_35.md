@@ -1,4 +1,4 @@
-Unknown Date: [[video] Random Noise - Shader Graph Basics - Episode 35](https://www.youtube.com/watch?v=5v6tvkb63XU)
+2022: [[video] Random Noise - Shader Graph Basics - Episode 35](https://www.youtube.com/watch?v=5v6tvkb63XU)
 
 - the video tutorial explains the concept of a noise hash
 - allows random number generations from other data sources

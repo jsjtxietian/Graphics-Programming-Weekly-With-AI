@@ -1,4 +1,4 @@
-Unknown Date: [[video] CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
+2024: [[video] CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
 
 - free course of 12 hours of content on CUDA development
 - presents how to get the system setup, explains the basics of GPU development concepts

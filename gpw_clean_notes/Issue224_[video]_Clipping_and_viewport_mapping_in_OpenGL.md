@@ -1,4 +1,4 @@
-Unknown Date: [[video] Clipping and viewport mapping in OpenGL](https://www.youtube.com/watch?v=J5Tqvs6RzGs)
+2022: [[video] Clipping and viewport mapping in OpenGL](https://www.youtube.com/watch?v=J5Tqvs6RzGs)
 
 - the video tutorial explains the process that vertices passthrough after vertex processing
 - shows how vertices are projected onto the screen, clipped to the window

@@ -1,4 +1,4 @@
-Unknown Date: [[video] GDC 2024 - GPU Work Graphs: Welcome to the Future of GPU Programming](https://www.youtube.com/watch?v=QQP6-JF64DQ)
+2024: [[video] GDC 2024 - GPU Work Graphs: Welcome to the Future of GPU Programming](https://www.youtube.com/watch?v=QQP6-JF64DQ)
 
 - the GDC video presents a discussion of the new work graph features for D3D (also a Vulkan AMD-specific extension exists)
 - explains the issue with the current ExecuteIndirect model

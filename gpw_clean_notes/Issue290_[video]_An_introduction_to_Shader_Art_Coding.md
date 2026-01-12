@@ -1,4 +1,4 @@
-Unknown Date: [[video] An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
+2023: [[video] An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
 - the video tutorial explains shader programming aimed at newcomers
 - explains how to create digital art using shaders

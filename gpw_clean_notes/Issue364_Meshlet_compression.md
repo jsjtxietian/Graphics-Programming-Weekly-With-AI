@@ -1,4 +1,4 @@
-Unknown Date: [Meshlet compression](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-meshlet_compression/)
+2024: [Meshlet compression](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-meshlet_compression/)
 
 - the article presents the findings of researach into compression of meshlet data for reduced memory usage
 - discusses the various techniques and the effects on compression ratios

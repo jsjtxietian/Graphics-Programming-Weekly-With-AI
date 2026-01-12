@@ -6,35 +6,40 @@
     <title>Graphics Programming Weekly - AI Search</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { background-color: #f8f9fa; color: #333; }
-        .search-container { max-width: 800px; margin: 50px auto; }
+        body { background-color: #f8f9fa; color: #333; display: flex; flex-direction: column; min-height: 100vh; }
+        .search-container { max-width: 800px; margin: 50px auto; flex: 1; }
         .result-card { 
             transition: transform 0.2s; 
             border-left: 5px solid #0d6efd;
             margin-bottom: 15px;
         }
         .result-card:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        .score-badge { font-size: 0.8em; color: #6c757d; }
         .loading-overlay {
             position: fixed; top: 0; left: 0; width: 100%; height: 100%;
             background: rgba(255,255,255,0.9); z-index: 9999;
             display: flex; flex-direction: column; align-items: center; justify-content: center;
         }
         .hidden { display: none !important; }
-        .highlight { background-color: #e2f0fb; font-weight: bold; padding: 0 4px; border-radius: 4px; }
+        .btn-similar { font-size: 0.8rem; padding: 2px 8px; border-radius: 20px; }
+        .meta-link:hover { text-decoration: underline !important; color: #0d6efd !important; }
     </style>
 </head>
 <body>
 
     <div id="loading" class="loading-overlay">
         <div class="spinner-border text-primary mb-3" role="status"></div>
-        <h3 id="loading-text">Loading AI Model (25MB)...</h3>
-        <p class="text-muted" id="loading-subtext">Initial download may take a few seconds.</p>
+        <h3 id="loading-text">Initializing...</h3>
+        <p class="text-muted" id="loading-subtext">Preparing local AI model...</p>
     </div>
 
     <div class="container search-container">
-        <h1 class="text-center mb-4 fw-bold">GPW <span class="text-primary">Vector Search</span></h1>
-        
+        <div class="text-center mb-5">
+            <h1 class="fw-bold display-5 mb-0">Graphics Programming Weekly</h1>
+            <div class="mt-2 text-primary text-uppercase" style="font-size: 0.85rem; letter-spacing: 3px; font-weight: 600;">
+                <span class="text-muted" style="font-weight: 400;">Powered by</span> AI Vector Search
+            </div>
+        </div>
+
         <div class="input-group input-group-lg mb-4 shadow-sm">
             <input type="text" id="search-input" class="form-control" placeholder="Search anything interesting (e.g., 'Volume rendering')..." disabled>
             <button class="btn btn-primary" type="button" id="search-btn">Search</button>
@@ -48,45 +53,66 @@
         <div id="results-container"></div>
     </div>
 
+    <footer class="text-center py-4 mt-5 text-muted border-top bg-white">
+        <div class="container">
+            <p class="mb-1">
+                Data sourced from 
+                <a href="https://www.jendrikillner.com/article_database/" target="_blank" class="text-decoration-none fw-bold text-dark">
+                    Graphics Programming Weekly
+                </a>
+                by Jendrik Illner.
+            </p>
+            <p class="small mb-0">
+                Powered by Transformers.js & all-MiniLM-L6-v2.
+            </p>
+        </div>
+    </footer>
+
     <script type="module">
-        // 1. 引入库
         import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.14.0';
 
-        env.allowLocalModels = true;    // 允许加载本地文件
-        env.allowRemoteModels = false;  // 禁止联网下载 (强制用本地，防止回退到远程报错)
-        env.localModelPath = 'models/';
-        // ==========================================
+        // === 纯本地模式配置 ===
+        env.allowLocalModels = true;    
+        env.allowRemoteModels = false;
+        env.localModelPath = 'models/'; 
 
         let extractor = null;
         let database = [];
         let isReady = false;
 
-        const dom = {
-            loading: document.getElementById('loading'),
-            loadingText: document.getElementById('loading-text'),
-            loadingSubtext: document.getElementById('loading-subtext'), // 加上这个ID方便提示
-            input: document.getElementById('search-input'),
-            btn: document.getElementById('search-btn'),
-            results: document.getElementById('results-container'),
-            status: document.getElementById('status-text'),
-            dbSize: document.getElementById('db-size')
-        };
+        // [修复] 先定义空对象，防止立即获取 DOM 导致 null
+        const dom = {};
 
-        // ... 后面的代码保持不变 ...
-        
-        // 2. 初始化函数里有一点小变化，增加一点提示信息
         async function init() {
-            try {
-                dom.loadingText.innerText = "Connecting to Mirror...";
-                dom.loadingSubtext.innerText = "Downloading ONNX model (25MB) via hf-mirror.com...";
+            // [修复] 在函数内部获取 DOM，确保页面加载完毕
+            dom.loading = document.getElementById('loading');
+            dom.loadingText = document.getElementById('loading-text');
+            dom.loadingSubtext = document.getElementById('loading-subtext');
+            dom.input = document.getElementById('search-input');
+            dom.btn = document.getElementById('search-btn');
+            dom.results = document.getElementById('results-container');
+            dom.status = document.getElementById('status-text');
+            dom.dbSize = document.getElementById('db-size');
 
-                // 这里不需要改，库内部会用上面的 remoteHost 拼接地址
-                // 它会自动去 https://hf-mirror.com/Xenova/all-MiniLM-L6-v2/... 下载
+            // [修复] 在这里绑定事件
+            if (dom.btn) {
+                dom.btn.addEventListener('click', performSearch);
+            }
+            if (dom.input) {
+                dom.input.addEventListener('keypress', (e) => {
+                    if (e.key === 'Enter') performSearch();
+                });
+            }
+
+            try {
+                dom.loadingText.innerText = "Loading Local Model...";
+                dom.loadingSubtext.innerText = "Loading ONNX model from ./models/ folder...";
+
                 const modelPromise = pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', {
                     quantized: true,
                     progress_callback: (data) => {
                         if (data.status === 'progress') {
-                            dom.loadingText.innerText = `Downloading Model: ${Math.round(data.progress)}%`;
+                            dom.loadingText.innerText = `Loading: ${Math.round(data.progress)}%`;
                         }
                     }
                 });
@@ -98,25 +124,23 @@
                 extractor = model;
                 database = data;
                 
-                // ... 后续逻辑不变 ...
                 dom.dbSize.innerText = database.length;
                 dom.loading.classList.add('hidden');
                 dom.input.disabled = false;
                 dom.input.focus();
                 isReady = true;
 
+                // 挂载 findSimilar
+                window.findSimilar = findSimilar;
+
             } catch (e) {
-                dom.loadingText.innerText = "Network Error";
-                dom.loadingSubtext.innerText = "Failed to download model. Check console for details.";
+                dom.loadingText.innerText = "Error Loading Model";
+                dom.loadingSubtext.innerText = "Please ensure 'models' folder exists and running locally.";
                 dom.loadingSubtext.classList.add('text-danger');
                 console.error(e);
             }
         }
         
-        // ... 其他函数 (performSearch, renderResults, bind events) 不变 ...
-        // ... dotProduct 函数也不变 ...
-        
-        // 记得加上之前的 search 和 render 逻辑
         function dotProduct(a, b) {
              let sum = 0;
              for (let i = 0; i < a.length; i++) sum += a[i] * b[i];
@@ -135,20 +159,42 @@
                 const startTime = performance.now();
                 const output = await extractor(query, { pooling: 'mean', normalize: true });
                 const queryVector = output.data;
-
-                const scores = [];
-                for (let i = 0; i < database.length; i++) {
-                    const score = dotProduct(queryVector, database[i].vector);
-                    scores.push({ item: database[i], score: score });
-                }
-
-                scores.sort((a, b) => b.score - a.score);
-                const topResults = scores.slice(0, 10);
-                const endTime = performance.now();
                 
-                dom.status.innerText = `Found in ${(endTime - startTime).toFixed(2)}ms`;
-                renderResults(topResults);
+                runVectorSearch(queryVector, startTime);
             }, 50);
+        }
+
+        function findSimilar(docId) {
+            const targetDoc = database.find(item => item.id === docId);
+            if (!targetDoc) return;
+
+            const title = targetDoc.content.split('\n')[0].replace(/.*\[(.*?)\]\((.*?)\)/, '$1');
+            dom.input.value = `🔗 Similar to: ${title}`;
+            
+            dom.status.innerText = "Finding similar items...";
+            dom.results.innerHTML = '<div class="text-center py-5"><div class="spinner-border text-secondary"></div></div>';
+            
+            setTimeout(() => {
+                const startTime = performance.now();
+                runVectorSearch(targetDoc.vector, startTime, docId);
+            }, 10);
+        }
+
+        function runVectorSearch(targetVector, startTime, excludeId = null) {
+            const scores = [];
+            for (let i = 0; i < database.length; i++) {
+                if (excludeId && database[i].id === excludeId) continue;
+                const score = dotProduct(targetVector, database[i].vector);
+                scores.push({ item: database[i], score: score });
+            }
+
+            scores.sort((a, b) => b.score - a.score);
+            const topResults = scores.slice(0, 10);
+            
+            const endTime = performance.now();
+            dom.status.innerText = `Found in ${(endTime - startTime).toFixed(2)}ms`;
+            
+            renderResults(topResults);
         }
 
         function renderResults(results) {
@@ -160,6 +206,7 @@
             results.forEach(res => {
                 const doc = res.item;
                 const scorePercent = (res.score * 100).toFixed(1);
+                
                 const firstLine = doc.content.split('\n')[0];
                 let title = firstLine;
                 let link = "#";
@@ -171,6 +218,12 @@
                     title = match[2];
                     link = match[3];
                 }
+
+                // 提取 Issue Number
+                const issueMatch = doc.id.match(/Issue(\d+)_/);
+                const issueNum = issueMatch ? issueMatch[1] : '??';
+                const issueUrl = `https://www.jendrikillner.com/post/graphics-programming-weekly-issue-${issueNum}/`;
+
                 const summary = doc.content.split('\n').slice(1).join('<br>').replace(/- /g, '• ');
 
                 const div = document.createElement('div');
@@ -181,20 +234,23 @@
                             <h5 class="card-title mb-1"><a href="${link}" target="_blank" class="text-decoration-none">${title}</a></h5>
                             <span class="badge bg-light text-dark border">${scorePercent}% Match</span>
                         </div>
-                        <h6 class="card-subtitle mb-2 text-muted" style="font-size: 0.85rem;">📅 ${date} | 📄 ${doc.id.replace('.md', '')}</h6>
+                        <h6 class="card-subtitle mb-2 text-muted" style="font-size: 0.85rem;">
+                            📅 ${date} &nbsp;|&nbsp; 
+                            🔗 <a href="${issueUrl}" target="_blank" class="text-decoration-none text-muted meta-link">Issue ${issueNum}</a>
+                        </h6>
                         <p class="card-text text-secondary mt-2" style="font-size: 0.95rem;">${summary}</p>
+                        
+                        <div class="mt-3 pt-2 border-top d-flex justify-content-end">
+                            <button class="btn btn-outline-primary btn-sm btn-similar" onclick="window.findSimilar('${doc.id}')">
+                                ✨ Find Similar
+                            </button>
+                        </div>
                     </div>
                 `;
                 dom.results.appendChild(div);
             });
         }
         
-        // 绑定事件
-        dom.btn.addEventListener('click', performSearch);
-        dom.input.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') performSearch();
-        });
-
         init();
     </script>
 </body>

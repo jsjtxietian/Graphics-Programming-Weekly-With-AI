@@ -1,4 +1,4 @@
-Unknown Date: [[video] Beyond Emitters: Shader and Surface Driven GPU Particle FX Techniques](https://www.youtube.com/watch?v=yG4ChOPyC-4)
+2021: [[video] Beyond Emitters: Shader and Surface Driven GPU Particle FX Techniques](https://www.youtube.com/watch?v=yG4ChOPyC-4)
 
 - the video from GDC 2018 was released
 - the talk presents different iterations of a system to allow particles emission from everything in the world

@@ -1,4 +1,4 @@
-Unknown Date: [[video] Speaking the GPU's Language | Indirect Rendering](https://www.youtube.com/watch?v=YS_t3FtnQXw)
+2025: [[video] Speaking the GPU's Language | Indirect Rendering](https://www.youtube.com/watch?v=YS_t3FtnQXw)
 
 - the video presents an overview of GPU architecture
 - explaining overhead in GPU processing

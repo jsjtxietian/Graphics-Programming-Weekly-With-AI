@@ -1,4 +1,4 @@
-Unknown Date: [[video] Billboarding With The Geometry Shader // Intermediate OpenGL Series](https://www.youtube.com/watch?v=nvCEpMUxAHE)
+2023: [[video] Billboarding With The Geometry Shader // Intermediate OpenGL Series](https://www.youtube.com/watch?v=nvCEpMUxAHE)
 
 - the article presents how to use geometry shaders from OpenGL
 - provides an overview of what geometry shaders are and how they can be used to overcome some vertex shader limitations

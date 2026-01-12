@@ -1,4 +1,4 @@
-Unknown Date: [[video] Ray Tracing Has a Noise Problem](https://www.youtube.com/watch?v=K3ZHzJ_bhaI)
+2024: [[video] Ray Tracing Has a Noise Problem](https://www.youtube.com/watch?v=K3ZHzJ_bhaI)
 
 - the video presents a look at raytracing quality in various games
 - shows comparisons mainly focusing on shadows and reflections

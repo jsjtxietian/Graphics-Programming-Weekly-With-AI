@@ -1,4 +1,4 @@
-Unknown Date: [[video] Interactive Graphics 10 - Textures on the GPU](https://www.youtube.com/watch?v=bv7vS60qJxg&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN)
+2022: [[video] Interactive Graphics 10 - Textures on the GPU](https://www.youtube.com/watch?v=bv7vS60qJxg&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN)
 
 - the video session explains Texture set up for usage from GPU shaders
 - covering texture types, addressing, tiling, texture filtering

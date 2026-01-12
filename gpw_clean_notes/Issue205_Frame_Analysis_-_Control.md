@@ -1,4 +1,4 @@
-Unknown Date: [Frame Analysis - Control](https://alain.xyz/blog/frame-analysis-control)
+2021: [Frame Analysis - Control](https://alain.xyz/blog/frame-analysis-control)
 
 - frame breakdown of a single frame from the game control (as video and text)
 - covering shadow rendering, ray tracing passes

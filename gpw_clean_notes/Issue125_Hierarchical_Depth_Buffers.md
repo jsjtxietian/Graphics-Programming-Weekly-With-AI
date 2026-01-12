@@ -1,4 +1,4 @@
-Unknown Date: [Hierarchical Depth Buffers](https://miketuritzin.com/post/hierarchical-depth-buffers/)
+2020: [Hierarchical Depth Buffers](https://miketuritzin.com/post/hierarchical-depth-buffers/)
 
 - the article presents what Hierarchical depth buffers are, what they are used for and how to generate them
 - two different techniques for calculating these buffers are presented

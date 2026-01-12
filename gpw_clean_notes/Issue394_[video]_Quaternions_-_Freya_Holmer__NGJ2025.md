@@ -1,4 +1,4 @@
-Unknown Date: [[video] Quaternions - Freya Holmer | NGJ2025](https://www.youtube.com/watch?v=PMvIWws8WEo)
+2025: [[video] Quaternions - Freya Holmer | NGJ2025](https://www.youtube.com/watch?v=PMvIWws8WEo)
 
 - talk from Nordic Game Jam 2025 providing an intuitive explanation of quaternion mathematics
 - breaks down quaternion concepts using visual examples and practical applications in game development

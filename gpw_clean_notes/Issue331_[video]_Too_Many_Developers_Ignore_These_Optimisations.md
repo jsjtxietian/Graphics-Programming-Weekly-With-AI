@@ -1,4 +1,4 @@
-Unknown Date: [[video] Too Many Developers Ignore These Optimisations](https://www.youtube.com/watch?v=40JzyaOYJeY)
+2024: [[video] Too Many Developers Ignore These Optimisations](https://www.youtube.com/watch?v=40JzyaOYJeY)
 
 - the video provides a walkthrough of the steps when optimizing a voxel renderer
 - each step is explained and visualized to make it very easy to understand

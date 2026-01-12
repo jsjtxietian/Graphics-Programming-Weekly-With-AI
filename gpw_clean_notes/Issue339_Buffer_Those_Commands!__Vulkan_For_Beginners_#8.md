@@ -1,4 +1,4 @@
-Unknown Date: [Buffer Those Commands! // Vulkan For Beginners #8](https://www.youtube.com/watch?v=vHhxfFdfSog)
+2024: [Buffer Those Commands! // Vulkan For Beginners #8](https://www.youtube.com/watch?v=vHhxfFdfSog)
 
 - the video tutorial explains the Vulkan command buffer concepts
 - presents limitations that OpenGL had and how Vulkan can solve these

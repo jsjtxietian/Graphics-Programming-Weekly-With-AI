@@ -1,4 +1,4 @@
-Unknown Date: [[video] niagara: Meshlets unchained](https://www.youtube.com/watch?v=zROUBE5pLuI&t=6s)
+2024: [[video] niagara: Meshlets unchained](https://www.youtube.com/watch?v=zROUBE5pLuI&t=6s)
 
 - the video continues meshlet implementation and looks at task shader performance on AMD hardware
 - starts with an overview of the technique implementation and presents the performance problem encountered using the AMD profiler

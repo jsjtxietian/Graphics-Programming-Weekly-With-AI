@@ -1,4 +1,4 @@
-Unknown Date: [My Ray Tracing Gems Chapters](https://boksajak.github.io/blog/RayTracingGemsChapters)
+2024: [My Ray Tracing Gems Chapters](https://boksajak.github.io/blog/RayTracingGemsChapters)
 
 - collection of the author's articles from Ray Tracing Gems published in one place
 - Ray Traced Shadows: Maintaining Real-Time Frame Rates, The Reference Path Tracer
